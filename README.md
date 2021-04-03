@@ -23,4 +23,4 @@ For an in-depth understanding of CNNs applied for visual recognition take look o
 CNNs have gone through tremendous research and advancements have led to more complex and power architectures, like VGG-16, VGG-19, Inception V3, and many models that are more interesting.
 
 Let's start our studies:
-![image](http://cs231n.github.io/assets/cnn/convnet.jpeg)
+![image](https://github.com/Madhavan11601828/Deep-Learning---CNN-Exercise-Related-to-Computer-Vision/blob/main/ProcessOfconvnet.jpeg)
